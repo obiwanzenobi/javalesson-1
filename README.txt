@@ -1,1 +1,4 @@
 czesc
+
+czołem
+
